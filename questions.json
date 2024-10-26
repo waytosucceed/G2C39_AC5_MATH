@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Select the multiplication statement to match the array.<br><img width='55%' src='./images/1.png'>",
+        "options": [
+            "3 x 4 = 12",
+            "3 x 3 = 9",
+            "3 x 2 = 6",
+            "4 x 3 = 12"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What multiplication statement matches this array?<br><img width='55%' src='./images/2.png'>",
+        "options": [
+            "4 x 3 = 12",
+            "4 x 4 = 12",
+            "5 x 3 = 15",
+            "3 x 5 = 15"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What multiplication statement represents this array?<br><img width='55%' src='./images/3.png'>",
+        "options": [
+            "3 x 6 = 18",
+            "5 x 2 = 10",
+            "3 x 5 = 15",
+            "4 x 4 = 16"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Select the multiplication statement to match the array.<br><img width='55%' src='./images/4.png'>",
+        "options": [
+            "4 x 3 = 12",
+            "4 x 4 = 16",
+            "8 x 2 = 16",
+            "4 x 5 = 20"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What multiplication statement matches this array?<br><img width='55%' src='./images/5.png'>",
+        "options": [
+            "4 x 6 = 24",
+            "8 x 3 = 24",
+            "3 x 6 = 18",
+            "6 x 2 = 12"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "What multiplication statement describes the given array?<br><img width='55%' src='./images/6.png'>",
+        "options": [
+            "4 x 2 = 8",
+            "3 x 3 = 9",
+            "4 x 4 = 16",
+            "3 x 4 = 12"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7",
+        "question": "What is the correct multiplication statement for this?<br><img width='55%' src='./images/7.png'>",
+        "options": [
+            "5 x 5 = 25",
+            "4 x 5 = 20",
+            "6 x 5 = 30",
+            "4 x 4 = 16"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q8",
+        "question": "What is the correct multiplication statement for this?<br><img width='55%' src='./images/8.png'>",
+        "options": [
+            "3 x 5 = 15",
+            "5 x 4 = 20",
+            "4 x 4 = 16",
+            "5 x 5 = 25"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Select the multiplication statement to match the array.<br><img width='55%' src='./images/9.png'>",
+        "options": [
+            "3 x 7 = 21",
+            "2 x 8 = 16",
+            "4 x 6 = 24",
+            "2 x 6 = 12"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "What multiplication statement matches this array?<br><img width='55%' src='./images/10.png'>",
+        "options": [
+            "7 x 3 = 21",
+            "5 x 6 = 30",
+            "4 x 7 = 28",
+            "6 x 7 = 42"
+        ],
+        "correct": 2
+    }
+]
